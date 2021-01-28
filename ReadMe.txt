@@ -10,3 +10,5 @@ This is a list of project team members' emails to facilitate contacting each of 
 2- Amr Ewies >> Amrewies1998@gmail.com
 3- Zeyad Ghonamy >> Ziad.ghonamy@gmail.com
 4- Mokhtar Saeed >> Mokhtarsaeed1999@gmail.com
+
+Note: You must put all those files in the same directory to work.
