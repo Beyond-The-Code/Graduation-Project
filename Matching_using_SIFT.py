@@ -88,8 +88,8 @@ def plot_matches(im1,im2,locs1,locs2,matchscores,show_below=True):
 if __name__=='__main__':
     
     # pair of images
-    imname1="1.ppm"
-    imname2="2.ppm"
+    imname1="images/1.ppm"
+    imname2="images/2.ppm"
     
     # convert images into gray scale then make it as array
     im1 = np.array(Image.open(imname1).convert("L"))
