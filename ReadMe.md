@@ -11,4 +11,4 @@ This is a list of project team members' emails to facilitate contacting each of 
 3- Zeyad Ghonamy >> Ziad.ghonamy@gmail.com
 4- Mokhtar Saeed >> Mokhtarsaeed1999@gmail.com
 
-Note: You must put all those files in the same directory to work.
+Note: You must put all those files in the same directory to work and I suggest to use Spyder IDLE.
