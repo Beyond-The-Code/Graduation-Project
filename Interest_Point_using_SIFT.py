@@ -60,7 +60,7 @@ def plot_features(im,l,circle=False):
 
 if __name__=='__main__':
     
-    imname1 = "1.ppm"
+    imname1 = "images/1.ppm"
     
     # convert images into gray scale then make it as array
     im = np.array(Image.open(imname1).convert("L"))
