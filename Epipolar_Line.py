@@ -54,11 +54,6 @@ def plotting(numbers_of_epipolar_line):
     plt.imshow(im2)
     plt.figure()
     
-    
-    im3 = matching.appendimages(im1,im2)
-    
-    plt.imshow(im3)
-    
 
 if __name__=='__main__':   
     
@@ -66,8 +61,8 @@ if __name__=='__main__':
     K = np.array([[2394,0,932],[0,2398,628],[0,0,1]])
     
     # pair of images
-    imname1 = "1.ppm"
-    imname2 = "2.ppm"
+    imname1 = "images/1.ppm"
+    imname2 = "images/2.ppm"
     
     # convert images into gray scale then make it as array
     im1 = np.array(Image.open(imname1).convert("L"))
