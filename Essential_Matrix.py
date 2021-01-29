@@ -167,8 +167,8 @@ if __name__=='__main__':
     K = np.array([[2394,0,932],[0,2398,628],[0,0,1]])
     
     # pair of images
-    imname1 = "1.png"
-    imname2 = "2.png"
+    imname1 = "images/1.png"
+    imname2 = "images/2.png"
     
     # convert images into gray scale then make it as array
     im1 = np.array(Image.open(imname1).convert("L"))
