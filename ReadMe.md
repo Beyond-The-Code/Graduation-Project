@@ -6,8 +6,8 @@ Finally, we plot epipolar lines and its code is in a file called "Epipolar_Line.
 
 This is a list of project team members' emails to facilitate contacting each of us independently if you wish.
 
-1- Mahmoud El-Sharkawy >> Elsharkawy1299@gmail.com
-2- Amr Ewies >> Amrewies1998@gmail.com
+1- Amr Ewies >> Amrewies1998@gmail.com
+2- Mahmoud El-Sharkawy >> Elsharkawy1299@gmail.com
 3- Zeyad Ghonamy >> Ziad.ghonamy@gmail.com
 4- Mokhtar Saeed >> Mokhtarsaeed1999@gmail.com
 
