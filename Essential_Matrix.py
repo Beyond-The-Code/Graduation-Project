@@ -136,7 +136,6 @@ def F_from_ransac(x1,x2,model,maxiter=5000,match_theshold=1e-6):
     The most important parameter is the maximum number of iterations, 
     exiting too early might give a worse solution, too many iterations will take more time.
     '''
-    # import ransac
     data = np.vstack((x1,x2))
     F,ransac_data = ransac(data.T,model,8,maxiter,match_theshold,20,return_all=True)
     return F, ransac_data['inliers']
